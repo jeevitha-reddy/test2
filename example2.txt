@@ -1,0 +1,3 @@
+### welcme test2
+
+hi am learning shell script
